@@ -221,4 +221,9 @@
   "zh": "zh.github.io",
   "zuhaib": "powrhouseofthecell.github.io",
   "zvqle": "zvqlesrealm.vercel.app"
-}
+  ,
+  "diamondmod": {
+    "owner": "woraphataim-sketch",
+    "description": "P-Diamond MOD",
+    "cname": "p-diamond-mod.woraphat-aim.workers.dev"
+  }
